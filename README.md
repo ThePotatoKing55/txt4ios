@@ -26,6 +26,10 @@
 
  txt will be available for download soon.
 
+## Issues? Requests?
+
+ [Check out the GitHub page here](https://github.com/ThePotatoKing55/txt4ios/issues) to submit bug reports.
+
 ## Privacy Policy
 
  txt collects no information, and all data is stored either on your iPhone or in a cloud-based service you choose to save to. I have neither the motivation nor the means to do otherwise.
