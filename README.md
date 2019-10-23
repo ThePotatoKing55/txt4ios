@@ -25,3 +25,7 @@
 ## Download
 
  txt will be available for download soon.
+
+## Privacy Policy
+
+ txt collects no information, and all data is stored either on your iPhone or in a cloud-based service you choose to save to. I have neither the motivation nor the means to do otherwise.
