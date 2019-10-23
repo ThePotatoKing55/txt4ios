@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Plaintext. Simple.
 
- You can use the [editor on GitHub](https://github.com/ThePotatoKing55/txt4ios.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ txt is just a plaintext editor, and doesn't need to be anything else. The launch screen is nothing but two buttons showing what you can do.
+ 
+ ![Launch page]
+ (/images/startup.png)
+ 
+ The editor hides away as much as possible to keep your content front and center.
+ 
+ ![Editor]
+ (/images/editor.png)
+ 
+## Beautiful interface.
+ 
+ Built for the ground up for iOS 13, txt takes advantage of both SF Symbols and the new card-based forms for an amazing, native-feeling user interface.
+ 
+ ![New file]
+ (/images/newfile.png)
+ 
+## Dark Mode
 
- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ ![Dark mode]
+ (/images/darkmodecomposite.png)
 
- ### Markdown
+## Download
 
- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
- ```markdown
- Syntax highlighted code block
-
- # Header 1
- ## Header 2
- ### Header 3
-
- - Bulleted
- - List
-
- 1. Numbered
- 2. List
-
- **Bold** and _Italic_ and `Code` text
-
- [Link](url) and ![Image](src)
- ```
-
- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
- ### Jekyll Themes
-
- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThePotatoKing55/txt4ios.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
- ### Support or Contact
-
- Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ txt will be available for download soon.
