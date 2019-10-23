@@ -2,25 +2,25 @@
 
  txt is just a plaintext editor, and doesn't need to be anything else. The launch screen is nothing but two buttons showing what you can do.
  
- ![Launch page]
- (/images/startup.png)
+![Launch page]
+(https://thepotatoking55.github.io/txt4ios/images/startup.png)
  
  The editor hides away as much as possible to keep your content front and center.
  
- ![Editor]
- (/images/editor.png)
+![Editor]
+(https://thepotatoking55.github.io/txt4ios/images/editor.png)
  
 ## Beautiful interface.
  
  Built for the ground up for iOS 13, txt takes advantage of both SF Symbols and the new card-based forms for an amazing, native-feeling user interface.
  
- ![New file]
- (/images/newfile.png)
+![New file]
+(https://thepotatoking55.github.io/txt4ios/images/newfile.png)
  
 ## Dark Mode
 
- ![Dark mode]
- (/images/darkmodecomposite.png)
+![Dark mode]
+(https://thepotatoking55.github.io/txt4ios/images/darkmodecomposite.png)
 
 ## Download
 
