@@ -1,4 +1,4 @@
-## Plaintext. Simple.
+## Plain and simple.
 
  txt is just a plaintext editor, and doesn't need to be anything else. The launch screen is nothing but two buttons showing what you can do.
  
