@@ -20,7 +20,7 @@
 
 ## Download
 
- txt will be available for download soon.
+ [Available now on the App Store!](https://apps.apple.com/us/app/txt-plaintext-editor/id1484729410)
 
 ## Issues? Requests?
 
