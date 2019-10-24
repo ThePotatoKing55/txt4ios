@@ -1,4 +1,4 @@
-![Icon](https://thepotatoking55.github.io/txt4ios/images/icon.png)
+![Icon](https://thepotatoking55.github.io/txt4ios/images/icon_rounded.png)
 
 ## Plain and simple.
 
