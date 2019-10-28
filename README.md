@@ -27,6 +27,10 @@
 ## Issues? Requests?
 
  [Check out the GitHub page here](https://github.com/ThePotatoKing55/txt4ios/issues) to submit bug reports.
+ 
+## Want to support me?
+
+ This app is totally free, but if you want to buy me a coffee or something [you can](https://www.paypal.me/kalvincline).
 
 ## Privacy Policy
 
